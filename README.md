@@ -72,6 +72,9 @@ The `zoom_search.py` and `batch_zoom_search.py` scripts implement a numerical an
 ### Significance
 This analysis provides a computational framework for testing hypotheses about the relationship between special cubic equations and the distribution of zeta function zeros. By numerically matching cubic roots to zeta zeros, the scripts offer insight into possible algebraic structures underlying the zeros, as suggested in the referenced mathematical literature. The results may help inform further theoretical exploration or inspire new conjectures about the interplay between polynomial equations and the Riemann zeta function.
 
+![Full Orrery Resonance](./Cubic/image/Screenshot2026-03-13032438.png)
+![Full Orrery Resonance](./Cubic/image/Screenshot2026-03-13032649.png)
+![Full Orrery Resonance](./Cubic/image/Screenshot2026-03-13032815.png)
 ### Example Output
 ```
 === Zeta zero #1 in interval (14, 15) ===
